@@ -1,0 +1,161 @@
+html{
+    position: relative;
+    
+}
+
+body {
+    margin-bottom: 100px;
+    margin-top: 50px;
+}
+
+hr{
+    width: 250px;
+    border-top: 3px solid #999 ;
+}
+
+section{
+    min-height: 800px;
+}
+
+
+.feedback {
+    background-color: #eee;
+    min-height: 1000px;
+}
+
+.feedback img {
+    width: 150px;
+}
+
+.feedback .row {
+    padding-bottom: 15px;
+}
+
+footer    {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 100px;
+    background-color: #333;
+    padding-top: 50px;
+    
+}
+
+footer p {
+    color: #aaa;
+    font-size: 0.9em;
+}
+
+
+
+
+
+a {
+    color: darkorange;
+    text-decoration: none
+    
+}
+
+#headJ {
+    color: #333;
+    text-decoration: none
+}
+
+#headJ:hover {
+    color: cyan;
+    text-decoration: none;
+}
+
+a:hover{
+    color: cyan;
+    text-decoration: none;
+}
+
+#artikel{
+    margin-top: 50px;
+    
+}
+
+#artikel div{
+    overflow: hidden
+}
+
+.col-sm-9 .row{
+    padding-bottom: 10px;
+}
+
+.jumbotron img{
+    width: 200px
+        
+}
+
+.portfolio{
+    min-height: 1200px;
+}
+
+#bawah{
+    margin-top: 15px;
+    margin-bottom: 50px;
+}
+
+
+#contact{
+    background-image: url('../asset/bgcntct.jpg') ;
+    min-height: 1200px;
+    padding-top: 300px;
+    color: #fff;
+}
+
+.linksidbar li{
+    text-decoration: none;
+    font-size: 18px;
+}
+
+.description {
+    padding-top: 100px;
+}
+
+#judullink1{
+    background-image: url('../asset/lombok/1.jpg');
+    min-height: 430px;
+    color: #fff;
+}
+
+
+#judullink2{
+    background-image: url('../asset/rajaampat/1.jpg');
+    min-height: 430px;
+    color: #fff;
+}
+
+
+#judullink3{
+    background-image: url('../asset/dieng/2.jpg');
+    min-height: 430px;
+    color: #fff;
+}
+
+#judullink4{
+    background-image: url('../asset/browncanyon/1.jpg');
+    min-height: 430px;
+    color: #fff;
+}
+
+#judullink5{
+    background-image: url('../asset/rawapening/4.jpg');
+    min-height: 430px;
+    color: #fff;
+}
+
+#judullink6{
+    background-image: url('../asset/pantai/4.jpg');
+    min-height: 430px;
+    color: #fff;
+}
+
+
+
+
+
+
+
